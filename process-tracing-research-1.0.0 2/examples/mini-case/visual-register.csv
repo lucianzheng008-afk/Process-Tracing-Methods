@@ -1,0 +1,2 @@
+visual_id,visual_type,title,source_tables,included_ids,caption_claim,output_path,status,notes
+FIG-1,mechanism diagram,Fictional information-updating mechanism,mechanism-evidence-matrix.csv;timeline.csv,M-1-S1;M-1-S2;EV-1;EV-2;EV-3,Shows the supported fictional sequence but not cross-case generality,mechanism.mmd,registered,fixture only

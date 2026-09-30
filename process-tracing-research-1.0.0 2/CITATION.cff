@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this Skill, cite the repository version and the method sources appropriate to your study."
+title: "Process-Tracing Research Skill"
+type: software
+authors:
+  - family-names: "Zheng"
+    given-names: "Siyuan"
+version: 1.0.0
+date-released: 2026-07-14
+license: MIT

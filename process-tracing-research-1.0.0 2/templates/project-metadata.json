@@ -1,0 +1,19 @@
+{
+  "project_id": "PT-001",
+  "title": "Process-tracing project",
+  "design_variant": "theory-testing",
+  "mechanism_resolution": "systems",
+  "inference_mode": "prospective",
+  "language": "zh-CN",
+  "citation_style": "author-date",
+  "deliverable": "research design and manuscript section",
+  "cases": ["CASE-1"],
+  "main_explanation_id": "H-1",
+  "time_boundary": {
+    "start": "",
+    "end": ""
+  },
+  "materials_supplied": [],
+  "search_scope": "lawful local and web sources",
+  "uncertainty_policy": "qualitative updating unless numeric inputs are defensible"
+}

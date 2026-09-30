@@ -1,0 +1,2 @@
+update_id,explanation_id,evidence_id,prior_level,likelihood_under_explanation,likelihood_under_best_alternative,source_adjustment,dependence_adjustment,update_direction,posterior_level,justification
+U1,H1,E1,medium,high,low,none,none,up,high,two reports

@@ -1,0 +1,4 @@
+update_id,explanation_id,evidence_id,prior_level,likelihood_under_explanation,likelihood_under_best_alternative,source_adjustment,dependence_adjustment,update_direction,posterior_level,justification
+U-1,H-1,E-1,medium,high,medium,minor reliability discount,none,up,medium,Receipt and estimate change are more expected under information updating but domestic analysis remains possible
+U-2,H-1,E-2,medium,high,low,moderate motive discount,none,up,high,Contemporaneous private attribution is more expected under H-1 than party pressure
+U-3,H-1,E-3,high,high,high,no discount,none,none,high,The vote is expected under both explanations and establishes the outcome rather than adjudicating

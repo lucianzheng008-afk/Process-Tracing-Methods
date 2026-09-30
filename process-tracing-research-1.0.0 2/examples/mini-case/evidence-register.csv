@@ -1,0 +1,4 @@
+evidence_id,proposition_id,case_id,date_start,date_end,observation,evidence_type,found_status,source_ids,source_family_ids,access_probability,empirical_certainty,empirical_uniqueness,reliability,independence,direction,diagnostic_weight,supports_explanations,challenges_explanations,locator,notes
+E-1,P-1,CASE-R,2030-01-10,2030-01-20,Committee record shows receipt and an updated compliance estimate,trace,found,SRC-1;SRC-2,FAM-1;FAM-2,high,high,medium,high,independent,confirm,medium,H-1,H-2,SRC-2 item 4,fictional
+E-2,P-2,CASE-R,2030-02-05,2030-02-05,Caucus note links the changed position to the new estimate,account,found,SRC-3,FAM-3,high,medium,high,medium,independent,confirm,high,H-1,H-2,SRC-3 paragraph 3,fictional
+E-3,P-2,CASE-R,2030-03-15,2030-03-15,Roll call records the predicted centrist votes,pattern,found,SRC-4,FAM-4,high,high,low,high,independent,confirm,low,H-1,,SRC-4 row 18,fictional

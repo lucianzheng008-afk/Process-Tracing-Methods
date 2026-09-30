@@ -1,0 +1,16 @@
+{
+  "project_id": "PT-DEMO-001",
+  "title": "Fictional Riverland treaty ratification demo",
+  "design_variant": "theory-testing",
+  "mechanism_resolution": "systems",
+  "inference_mode": "prospective",
+  "language": "en",
+  "citation_style": "demo IDs",
+  "deliverable": "validator fixture",
+  "cases": ["CASE-R"],
+  "main_explanation_id": "H-1",
+  "time_boundary": {"start": "2030-01-01", "end": "2030-03-31"},
+  "materials_supplied": ["fictional records"],
+  "search_scope": "fixture only",
+  "uncertainty_policy": "qualitative"
+}

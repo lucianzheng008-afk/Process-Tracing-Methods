@@ -1,0 +1,5 @@
+source_id,source_family_id,citation_key,source_type,title,creator,date,locator,url_or_path,access_status,proximity,competence,motive_risk,authenticity,independence_notes,permitted_claims,notes
+SRC-1,FAM-1,demo-monitor,fictional primary record,Compliance report,Treaty Secretariat,2030-01-10,section 2,fixture://report,primary-record,direct,high,low,verified,independent institutional record,content and delivery of report,fictional
+SRC-2,FAM-2,demo-minutes,fictional primary record,Committee minutes,Parliamentary Committee,2030-01-20,item 4,fixture://minutes,primary-record,direct,high,medium,verified,separate record creator,committee discussion and stated estimate change,fictional
+SRC-3,FAM-3,demo-caucus,fictional primary record,Centrist caucus note,Centrist Caucus,2030-02-05,paragraph 3,fixture://caucus,primary-record,direct,high,medium,verified,created before vote,stated reason for coalition shift,fictional
+SRC-4,FAM-4,demo-vote,fictional administrative record,Roll-call result,Parliament,2030-03-15,row 18,fixture://vote,primary-record,direct,high,low,verified,independent outcome record,vote outcome,fictional

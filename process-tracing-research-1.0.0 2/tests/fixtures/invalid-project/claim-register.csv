@@ -1,0 +1,2 @@
+claim_id,claim_text,claim_type,case_id,step_ids,evidence_ids,source_ids,confidence,scope,status,notes
+C1,The mechanism decisively caused the policy,inference,C1,M1-S1,,,high,single case,final,

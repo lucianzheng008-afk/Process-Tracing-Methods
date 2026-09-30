@@ -1,0 +1,4 @@
+event_id,case_id,date_start,date_end,event,actor,step_ids,evidence_ids,source_ids,analytic_role,notes
+EV-1,CASE-R,2030-01-10,2030-01-10,Compliance report delivered,Treaty Secretariat,M-1-S1,E-1,SRC-1,trigger,fictional
+EV-2,CASE-R,2030-02-05,2030-02-05,Centrist caucus changes position,Centrist Caucus,M-1-S2,E-2,SRC-3,mechanism activity,fictional
+EV-3,CASE-R,2030-03-15,2030-03-15,Treaty ratified,Parliament,M-1-S2,E-3,SRC-4,outcome,fictional

@@ -1,0 +1,2 @@
+event_id,case_id,date_start,date_end,event,actor,step_ids,evidence_ids,source_ids,analytic_role,notes
+T1,C1,2020-01-03,2020-01-03,Policy announced,Minister,M1-S1,E1,S1,outcome,

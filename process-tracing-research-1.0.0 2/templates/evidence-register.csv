@@ -1,0 +1,1 @@
+evidence_id,proposition_id,case_id,date_start,date_end,observation,evidence_type,found_status,source_ids,source_family_ids,access_probability,empirical_certainty,empirical_uniqueness,reliability,independence,direction,diagnostic_weight,supports_explanations,challenges_explanations,locator,notes

@@ -1,0 +1,8 @@
+{
+  "project_id": "INVALID",
+  "title": "Deliberately invalid audit fixture",
+  "design_variant": "theory-testing",
+  "inference_mode": "prospective",
+  "cases": ["C1"],
+  "main_explanation_id": "H1"
+}

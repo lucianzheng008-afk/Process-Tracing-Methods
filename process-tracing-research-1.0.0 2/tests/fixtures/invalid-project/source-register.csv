@@ -1,0 +1,3 @@
+source_id,source_family_id,citation_key,source_type,title,creator,date,locator,url_or_path,access_status,proximity,competence,motive_risk,authenticity,independence_notes,permitted_claims,notes
+S1,F1,news-a,news,Story A,Reporter,2020-01-01,p.1,https://example.invalid/a,full-text,secondary,medium,medium,verified,same anonymous official,public chronology,
+S2,F1,news-b,news,Story B,Reporter,2020-01-02,p.1,https://example.invalid/b,full-text,secondary,medium,medium,verified,repeats Story A,public chronology,

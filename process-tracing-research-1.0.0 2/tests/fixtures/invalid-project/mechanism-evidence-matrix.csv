@@ -1,0 +1,2 @@
+mechanism_id,step_id,sequence,entity,activity,input,output,context_conditions,expected_timing,proposition_id,predicted_fingerprint,theoretical_certainty,theoretical_uniqueness,alternative_generators,disconfirming_observation,source_target,status
+M1,M1-S1,1,Minister,,pressure,decision,open access,early,P1,private memo,high,high,strategic positioning,no memo,archive,incomplete

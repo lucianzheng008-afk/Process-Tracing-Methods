@@ -1,0 +1,1 @@
+mechanism_id,step_id,sequence,entity,activity,input,change_object,state_before,state_after,output,context_conditions,expected_timing,proposition_id,predicted_fingerprint,theoretical_certainty,theoretical_uniqueness,alternative_generators,disconfirming_observation,source_target,status
